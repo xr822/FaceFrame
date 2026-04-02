@@ -199,8 +199,8 @@ export const EMOTION_DICTIONARY = {
 
         "happy", "lovely", "sweet", "warm", "nice", "blessed", "peaceful",
         "grateful", "cozy", "comfortable", "smile", "love it", "feel good",
-        "so sweet", "full of joy", "pure happy", "chill good", "enjoy life",
-        "feel blessed", "heart full", "nice mood", "great day",
+        "so sweet", "full of joy", "pure happy", "chill good", "enjoy life",'wow',
+        "feel blessed", "heart full", "nice mood", "great day",'wonderful','incredible',
         "pure vibe", "healing", "sweet moment", "best life", "small happiness",
         "match made", "cute", "vibe check good", "heart full",
         "good energy", "happy vibes", "blessed af", "comfort zone", "safe vibe",
